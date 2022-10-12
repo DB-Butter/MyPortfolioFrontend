@@ -1,3 +1,5 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Welcome to my personal Portfolio! -Git-
+
+Check it out Here! http://devanbabcock.com/
