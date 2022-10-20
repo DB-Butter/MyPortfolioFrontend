@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Run-tracker',
     description: "This MERN, Full-Stack, full CRUD app allows you to creat a User and log excercises! Hosted using Heroku and Hostinger, you can check this one out live at https://run-tracker-is.online",
-      image: 'https://imgur.com/gallery/9CyCjru',
+      image: 'https://i.imgur.com/lZcNUTa.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/DB-Butter/run-tracker',
     visit: 'https://google.com',
