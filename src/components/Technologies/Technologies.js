@@ -9,8 +9,7 @@ const Technologies = () =>  (
     <br /> <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of tech in the dev world. <br />
-      Fully stacked.
+      I've worked with a range of technology in the industry.
     </SectionText>
     <List>
       <ListItem>
@@ -18,7 +17,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br /> <br />
+            Experience with: <br />
             React <br />
             JS, CSS, HTML <br />
             Python
@@ -30,7 +29,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br /> <br />
+            Experience with: <br />
             Express <br />
             Mongoose/MongoDB <br />
             Node and Databases <br />
