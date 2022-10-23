@@ -48,7 +48,7 @@ const Timeline = () => {
       <br /> <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Throughout my education, I have had an interest in the Stem fields and design. I learned meticulous rigour in the lab, and applied that rigour with a focus on systems' structure to develop viable engineering and horticulture design projects. Now I bring these skills to their destination, where all of my skills meet. In Software Enginnering where logic, systems, language, and design come together to offer the most difficult challenges
+      I am a junior software engineer looking for a great team to help develop my skills. Always team oriented, I strive to be of benefit to my colleagues and my clients in every aspect. With a focus on cohesiveness, and a love for communication, I aim to uplift my environment and bring my skills together to produce fantastic products.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
