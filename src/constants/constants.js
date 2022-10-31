@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Run-tracker',
-    description: "This MERN, Full-Stack, full CRUD app allows you to creat a User and log excercises! Hosted using Heroku and Hostinger, you can check this one out live at https://run-tracker-is.online",
-      image: 'https://i.imgur.com/lZcNUTa.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://github.com/DB-Butter/run-tracker',
-    visit: 'https://google.com',
+    title: 'K&D Weather',
+    description: "This React app allows the user to see the weather at their location, or they can search around the world by city! Featuring OpenWeather API and Tailwind!",
+      image: 'https://camo.githubusercontent.com/5aa37af6395ce91fee99a926ac7f81a85e53704667b5fa1932554b769089884f/68747470733a2f2f692e696d6775722e636f6d2f4153647a6351752e706e67',
+      tags: ['React', 'Javascript', 'HTML', 'CSS'],
+    source: 'https://github.com/DB-Butter/kdb-weather',
+    visit: 'https://kndweather.online',
     id: 2,
   },
   {
