@@ -5,7 +5,7 @@ export const projects = [
       image: 'https://www.pngmart.com/files/7/Monster-Hunter-World-PNG-HD.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/KJBabcock/MHW-Tracker',
-    visit: 'https://google.com',
+    visit: 'https://github.com/KJBabcock/MHW-Tracker',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: 'https://raw.githubusercontent.com/DB-Butter/DB-Butter.github.io/main/Screen%20Shot%202022-08-12%20at%2012.40.43%20AM.png',
     tags: ['Node', 'JS, CSS, HTML'],
     source: 'https://github.com/DB-Butter/DB-Butter.github.io',
-    visit: 'https://google.com',
+    visit: 'https://github.com/DB-Butter/DB-Butter.github.io',
     id: 1,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: 'https://i.imgur.com/qCLCSWm.png',
     tags: ['Python', 'Django', 'SQL'],
     source: 'https://github.com/DB-Butter/goats',
-    visit: 'https://google.com',
+    visit: 'https://github.com/DB-Butter/goats',
     id: 3,
   },
 ];
