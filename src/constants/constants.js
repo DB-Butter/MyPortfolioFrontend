@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'K&D Weather',
-    description: "This React app allows the user to see the weather at their location, or they can search around the world by city! Featuring OpenWeather API and Tailwind!",
+    description: "This React app allows the user to see the weather at their location, or they can search around the world by city! Featuring the OpenWeather API!",
       image: 'https://camo.githubusercontent.com/5aa37af6395ce91fee99a926ac7f81a85e53704667b5fa1932554b769089884f/68747470733a2f2f692e696d6775722e636f6d2f4153647a6351752e706e67',
       tags: ['React', 'Javascript', 'HTML', 'CSS'],
     source: 'https://github.com/DB-Butter/kdb-weather',
