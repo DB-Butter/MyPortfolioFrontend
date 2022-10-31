@@ -30,6 +30,9 @@ const Projects = () => (
           <UtilityList>
             <ExternalLinks href={source}>Git the Code</ExternalLinks>
           </UtilityList>
+          <UtilityList>
+            <ExternalLinks href={visit}>Live Link</ExternalLinks>
+          </UtilityList>
         </BlogCard>
       ))}
     </GridContainer>
