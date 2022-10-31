@@ -41,6 +41,6 @@ export const TimeLineData = [
   { year: "07/2022", text: 'Started my journey with General Assembly', },
   { year: "08/2022", text: 'Coded my first game', },
   { year: "09/2022", text: 'Coded my first Full-Stack website', },
-  { year: "09/2022", text: 'My first collaborative project', },
+  { year: "09/2022", text: 'My first collaborative coding project', },
   { year: "10/2022", text: 'Graduated GA, and ever growing', },
 ];
