@@ -48,7 +48,7 @@ const Timeline = () => {
       <br /> <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am a junior software engineer looking for a great team to help develop my skills. Always team oriented, I strive to be of benefit to my colleagues and my clients in every aspect. With a focus on cohesiveness, and a love for communication, I aim to uplift my environment and bring my skills together to produce fantastic products.
+      I am a software engineer and React specialist looking for a great team to help develop my skills. Always team oriented, I strive to be of benefit to my colleagues and my clients in every aspect. With a focus on cohesiveness, and a love for communication, I aim to uplift my environment and bring my skills together to produce fantastic products.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
