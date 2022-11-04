@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'K&D Tube',
-    description: "This React app is a youtube clone which allows the user to watch all of their favorite youtube videos! Featuring Youtube's API!",
+    description: "This React app is a youtube clone which allows the user to watch all of their favorite youtube videos! Featuring Rapid API!",
       image: 'https://i.imgur.com/cMTvxMh.png',
       tags: ['React', 'Javascript', 'HTML', 'CSS'],
     source: 'https://github.com/KJBabcock/KND-Youtube-App',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'K&Dify',
-    description: "This React app is a spotify clone which allows the user to listen to their favorite artists and songs on Spotify! Featuring Spotify's API!",
+    description: "This React app is a spotify clone which allows the user to listen to their favorite artists and songs on Spotify! Featuring Rapid API!",
       image: 'https://i.imgur.com/X3cIcDh.png',
       tags: ['React', 'Javascript', 'HTML', 'CSS'],
     source: 'https://github.com/KJBabcock/KND-Spotify-App',
