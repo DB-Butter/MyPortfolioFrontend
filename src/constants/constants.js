@@ -13,7 +13,7 @@ export const projects = [
     description: "This React app allows the user to track market data on all of the most popular crypto-currencies in real time. Featuring the CoinGecko API!",
       image: 'https://camo.githubusercontent.com/9a7c22ade98662bfedb76477c45ea1ddb486872a2773dfa873305b43c967861e/68747470733a2f2f692e696d6775722e636f6d2f4c62635673446e2e706e67',
       tags: ['React', 'Javascript', 'HTML', 'CSS'],
-    source: 'https://github.com/DB-Butter/kdb-crypto',
+    source: 'https://github.com/DB-Butter/knd-crypto',
     visit: 'https://kndcrypto.online',
     id: 1,
   },
