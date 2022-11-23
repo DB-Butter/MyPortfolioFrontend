@@ -50,7 +50,7 @@ const Timeline = () => {
       <SectionText>
       I am a software engineer and React specialist looking for a great team to help develop my skills. Always team oriented, I strive to be of benefit to my colleagues and my clients in every aspect. With a focus on cohesiveness, and a love for communication, I aim to uplift my environment and bring my skills together to produce fantastic products.
       </SectionText>
-      <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
+      {/* <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
             <CarouselMobileScrollNode key={index} final={index === TOTAL_CAROUSEL_COUNT - 1}>
@@ -111,7 +111,7 @@ const Timeline = () => {
             <CarouselButtonDot active={activeItem} />
           </CarouselButton>
         ))}
-      </CarouselButtons>
+      </CarouselButtons> */}
       <SectionDivider />
     </Section>
   );
